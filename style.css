@@ -23,8 +23,6 @@ body {
 
 header {
   position: fixed;
-  background: rgba(0,0,0,0);
-  
   width: 100%;
   height: 80px;
   display: flex;
@@ -197,8 +195,9 @@ article article-header title-content publisher name{
   justify-content: space-between;
   text-transform: uppercase;
   line-height: 1.3;
-  font-size: .875rem;
+  font-size: .9rem;
   font-weight: 700;
+  margin-bottom: 1rem;
 }
 
 article article-header title-content publisher info{
@@ -207,7 +206,7 @@ article article-header title-content publisher info{
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  font-size: 1.125rem;
+  font-size: .9rem;
   margin-right: 32px !important;
   margin-top: -8px !important;
   padding-left: 16px !important;
@@ -560,8 +559,9 @@ button.gT:after {
 
   article article-header title-content publisher name{
     line-height: 1.3;
-    font-size: .75rem;
+    font-size: 1rem;
     font-weight: 400;
+    margin-bottom: 1rem;
   }
 
   article article-header title-content publisher info{
