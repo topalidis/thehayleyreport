@@ -398,7 +398,7 @@ button.gT {
   font-size: 1rem;
   letter-spacing: 0;
   line-height: 1.2;
-  padding: 0.75rem 1rem;
+  padding: 1rem 2.2rem;
   text-transform: capitalize;
   z-index: var(--zIndexContent);
   font-family: Georgia, serif;
